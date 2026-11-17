@@ -43,8 +43,3 @@ See [hardware/wiring.md](hardware/wiring.md) for the code-derived pin map.
 
 The repository includes models and design files, but should not be interpreted as a fresh validation of the full hardware system. The power-analysis data in the original repository was not selected for this curated package because its device assumptions are not fully aligned with the integrated Arduino Uno design. Experimental PID and other older prototype variants were also excluded rather than portrayed as integrated final features.
 
-## Attribution and usage conditions
-
-This repository is maintained as **Soaib Ferdous's portfolio** of university work that included collaboration. The original report and license remain intact, including original contributor credits. This copy does not reassign copyright or imply that all underlying files were authored solely by the portfolio maintainer.
-
-**The original `RESTRICTED_LICENSE` limits redistribution and modification outside Hochschule Hamm-Lippstadt without permission from the authors.** Keep any new GitHub repository private while permissions are being checked, and do not publish these assets publicly unless permission has been established.
